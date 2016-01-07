@@ -2721,6 +2721,11 @@ codrops menu
 	.col-sm-OneHalf{
 		display: none;
 	}
+	hr{
+		width: 100%;
+	  	margin-top: 0px;
+	  	margin-bottom: 0px;
+	}
 	.mobile-center{
 		text-align: center;
 	}
