@@ -539,7 +539,7 @@ video#videoToPlay2{
 
 .home-styles{
 	background-size: cover;
-	background-position: center;
+	background-position: bottom;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	color: #f5f6f6;
