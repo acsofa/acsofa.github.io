@@ -1203,6 +1203,10 @@ a.page-scroll:hover{
 .margin-bottom-35{
 	margin-bottom: 35px;
 }
+.thumb-container .thumb-about-img{
+	height: 240px;
+	width: 360px;
+}
 .thumb-about-img{
 	height: 280px;
 	width: 280px;
