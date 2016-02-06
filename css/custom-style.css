@@ -2474,6 +2474,9 @@ codrops menu
 /**********************************/
 /*media query css classes defined here*/
 @media (max-width:500px){
+	.form-container-landing{
+		padding: 20px 0px;
+	}
 	.col-sm-OneHalf{
 		display: none;
 	}
