@@ -1202,8 +1202,8 @@ a.page-scroll:hover{
 	margin-bottom: 35px;
 }
 .thumb-about-img{
-	height: 230px;
-	width: 300px;
+	height: 280px;
+	width: 280px;
 }
 .img-w40{
 	width: 40%;
@@ -2892,15 +2892,15 @@ img {
 	background: #FFFFFF;	
 	padding: 5px;
 	z-index: 10;
-	min-height: 200px;
-	min-width: 200px;
+	min-height: 100px;
+	min-width: 100px;
 	color: #336699;
 }
 #background{
 	display: none;
 	position: absolute;
-	height: 100%;
-	width: 100%;
+	height: 600px;
+	width: 800px;
 	top: 0;
 	left: 0;
 	background: #000000;	
