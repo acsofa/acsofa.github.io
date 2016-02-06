@@ -16,7 +16,9 @@ p > q {
   text-indent: -.5em; 
   overflow: visible; 
 }
-
+.modal{
+	z-index: 1000000;
+}
 sup, span.sup{
 	color: #808080;
 	left: 0.3em;
